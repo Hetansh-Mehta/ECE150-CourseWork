@@ -5,6 +5,8 @@
 //  Created by Hetansh Mehta on 12/13/18.
 //  Copyright © 2018 Hetansh Mehta. All rights reserved.
 //  References: Computer Science with C++ by Sumita Arora
+//  The theory and the examples have been taken from the above mentioned source. This file is meant for study and 
+//  understanding purposes only. 
 
 #include <iostream>
 #include <cmath>
