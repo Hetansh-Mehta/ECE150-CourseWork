@@ -1,7 +1,9 @@
-//     Author: Hetansh Mehta
-//      Date: December 3, 2018.
-// References: Sumita Arora - Computer Science with C++ for Class 12
+// Author: Hetansh Mehta
+// Date: December 3, 2018.
 // Copyright - All Rights Reserved.
+// References: Computer Science with C++ by Sumita Arora
+// The theory and the examples have been taken from the above mentioned source. This file is meant for study and 
+// understanding purposes only. 
 
 #include <iostream>
 #include <string>
