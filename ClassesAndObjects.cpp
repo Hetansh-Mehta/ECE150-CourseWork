@@ -1,4 +1,8 @@
 // Classes and Objects
+// Author: Hetansh Mehta
+// References: Computer Science with C++ by Sumita Arora
+// The theory and the examples have been taken from the above mentioned source. This file is meant for study and 
+// understanding purposes only. 
 
 // A class represents a group of similar objects.
 // A class is a way to bind data describing an entity and its associate functions together - encapsulation.
